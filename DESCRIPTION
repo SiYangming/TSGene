@@ -1,0 +1,13 @@
+Package: TSGene
+Type: Package
+Title: Tumor Suppressor Gene Data
+Version: 0.1.0
+Author: Yangming Si
+Maintainer: Yangming Si <siyangming1991@163.com>
+Description: https://bioinfo.uth.edu/TSGene/index.html
+Depends: R (>= 3.5), tibble
+Suggests: roxygen2
+License: file LICENSE.pdf
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
